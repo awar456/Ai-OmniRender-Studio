@@ -1,0 +1,6 @@
+{
+  "name": "OmniRender AI Studio Pro",
+  "description": "Professional generative AI media studio with 4K cinematic video animation, multi-aspect image generation, variations matrix, and AI soundtrack synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
